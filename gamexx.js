@@ -44112,7 +44112,7 @@ $(document).ready(function() {
 
         // تحميل صفحتك المخصصة بدلاً من ذلك
 
-        return $.get('https://sjhhsbb.github.io/mini/pc.html')
+        return $.get('https://wormxo.github.io/Tnen-dark/server.html')
 
           .then(function(customContent) {
 
